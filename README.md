@@ -39,7 +39,7 @@ THEN I find a concise, descriptive title
 
 ## Screenshot
 
-![HoriseonScreen]()
+![HoriseonScreen](https://github.com/kwc2894/kwc2894.github.io-code-refactor/blob/main/assets/images/screenshotExample.png)
 
 ## Deployed page
 
